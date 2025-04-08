@@ -1,4 +1,4 @@
-# Undesync Status Rotator
+# Discord Status Rotator
 
 A Discord status rotator that automatically updates your status based on the time of day (GMT+3). The bot changes your status to different predefined messages and emojis at specific times, including Idle, Online, and Custom Statuses.
 
@@ -13,8 +13,8 @@ A Discord status rotator that automatically updates your status based on the tim
 ## Setup
 
 1. **Clone the Repository**:
-   `git clone https://github.com/your-username/undesync-status-rotator.git`
-   `cd undesync-status-rotator`
+   `git clone https://github.com/william2sober/Discord-Status-Rotator.git`
+   `cd Discord-Status-Rotator`
 
 2. **Install Dependencies**:
    Make sure you have Node.js installed. If not, download it from [here](https://nodejs.org/).
@@ -38,4 +38,4 @@ A Discord status rotator that automatically updates your status based on the tim
 
 If you need help or have any questions, feel free to join the support community on Discord:
 
-[Discord Support Server](https://discord.gg/G8hJGkZMqD) 
+[Discord Support Server](https://discord.gg/G8hJGkZMqD)
